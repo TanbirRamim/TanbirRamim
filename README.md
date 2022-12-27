@@ -1,6 +1,8 @@
 ![I am a Front-End developer, trying to become a full stack one.]([[https://scontent.fdac8-1.fna.fbcdn.net/v/t31.18172-8/16835851_1899543543648245_3346168067452447810_o.jpg?_nc_cat=108&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeGes_DSobQy0f5p2GiX_XJ65fSlOMROGYnl9KU4xE4Zif4-27GvkeN4zcXZfkXkYYwuoCalDKaKWVpVSOm5eTQD&_nc_ohc=iTQ7zubgbr8AX-ma48w&tn=-IB329UqUThJ_NQ2&_nc_ht=scontent.fdac8-1.fna&oh=00_AT83ydojVPFVISRbq_QYq6cL3NQK71QsfizYXIKMqNKMOw&oe=62898C74](https://scontent.fdac8-1.fna.fbcdn.net/v/t31.18172-8/16835851_1899543543648245_3346168067452447810_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeGes_DSobQy0f5p2GiX_XJ65fSlOMROGYnl9KU4xE4Zif4-27GvkeN4zcXZfkXkYYwuoCalDKaKWVpVSOm5eTQD&_nc_ohc=NZdqG34hBnUAX84n9zB&_nc_ht=scontent.fdac8-1.fna&oh=00_AT-nAEaizYbumk8lpZWqal8qZEmHsnFYeVvsmDvGb3-L5w&oe=62DC9AF4)](https://scontent.fdac8-1.fna.fbcdn.net/v/t1.18169-9/24129660_2052043418398256_4776504599370863092_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeEhS2zg02tDWqLxKBIF3cT7U3sV-nd_RkhTexX6d39GSAdHN2kS0skC2l9L7BtJ0mEjybDDVDmtNNBmTgBqGjyb&_nc_ohc=l7B6ml1paRcAX8pa-4I&_nc_oc=AQkuKkiyq7nhQFT01yDbUVoihx-9ebQVAUq6PjZ_jpVw0FoSu_7o9kOYXIz4JKv1RX0&_nc_ht=scontent.fdac8-1.fna&oh=00_AT_sdjWvACCqnix94cBBogWawT1xB7MXtRSlrai1Ohc4Ug&oe=62DCE4B4))
 
 ### Hi there, My name is Tanbir Ramim
+[![Tanbirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanbirRamim&show_icons=true&theme=tokyonight)](https://github.com/TanbirRamim/github-readme-stats)
+
 #### I am a Front-End developer, trying to become a full stack one.
 
 
