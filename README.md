@@ -5,6 +5,8 @@ I am a Front-End developer, trying to become a full stack one.
 
 #### I am a Front-End developer, trying to become a full stack one.
 
+<a href="https://app.daily.dev/tanbir_ramim"><img src="https://api.daily.dev/devcards/09ae522096d948048e5cd0f06fbf98b0.png?r=bec" width="400" alt="Your Tech Guy's Dev Card"/></a>
+
 
 A decent freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
