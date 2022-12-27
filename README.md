@@ -1,18 +1,17 @@
 I am a Front-End developer, trying to become a full stack one.
 
 ### Hi there, My name is Tanbir Ramim
-[![Tanbirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanbirRamim&show_icons=true&theme=tokyonight)](https://github.com/TanbirRamim/github-readme-stats)
-
-#### I am a Front-End developer, trying to become a full stack one.
 
 <a href="https://app.daily.dev/tanbir_ramim"><img src="https://api.daily.dev/devcards/09ae522096d948048e5cd0f06fbf98b0.png?r=bec" width="400" alt="Your Tech Guy's Dev Card"/></a>
+
+#### I am a Front-End developer, trying to become a full stack one.
 
 
 A decent freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
+[![Tanbirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanbirRamim&show_icons=true&theme=tokyonight)](https://github.com/TanbirRamim/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanbirramim&label=Profile%20views&color=0e75b6&style=flat" alt="tanbirramim" /> </p>
 
