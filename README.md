@@ -1,4 +1,4 @@
-![I am a Front-End developer, trying to become a full stack one.]
+I am a Front-End developer, trying to become a full stack one.
 
 ### Hi there, My name is Tanbir Ramim
 [![Tanbirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanbirRamim&show_icons=true&theme=tokyonight)](https://github.com/TanbirRamim/github-readme-stats)
