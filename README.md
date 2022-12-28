@@ -13,6 +13,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Tanbirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanbirRamim&show_icons=true&theme=tokyonight)](https://github.com/TanbirRamim/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanbirramim)](https://git.io/streak-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanbirramim&label=Profile%20views&color=0e75b6&style=flat" alt="tanbirramim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanbirramim" alt="tanbirramim" /></a> </p>
