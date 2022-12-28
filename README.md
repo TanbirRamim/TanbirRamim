@@ -21,7 +21,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanbirramim" alt="tanbirramim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tanbirramim" target="blank"><img src="https://img.shields.io/twitter/follow/tanbirramim?logo=twitter&style=for-the-badge" alt="tanbirramim" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
