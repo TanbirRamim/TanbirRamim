@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Tanbir+Hossain+Ramim)](https://git.io/typing-svg)
-#### <h3 > I am a Front-End developer, trying to become a full stack one. </h3>
+#### <h3 > I am a Front-End developer and a competitive programmer  </h3>
 
 
 
