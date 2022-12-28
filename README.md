@@ -1,10 +1,11 @@
 I am a Front-End developer, trying to become a full stack one.
 
 ### Hi there, My name is Tanbir Ramim
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j8c8udqsodtwntl5dk119pwr3&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
-<a href="https://app.daily.dev/tanbir_ramim"><img src="https://api.daily.dev/devcards/09ae522096d948048e5cd0f06fbf98b0.png?r=bec" width="400" alt="Your Tech Guy's Dev Card"/></a>
 
 #### I am a Front-End developer, trying to become a full stack one.
+
 
 
 A decent freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -14,6 +15,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![Tanbirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanbirRamim&show_icons=true&theme=tokyonight)](https://github.com/TanbirRamim/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tanbirramim)](https://git.io/streak-stats)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanbirramim&label=Profile%20views&color=0e75b6&style=flat" alt="tanbirramim" /> </p>
 
