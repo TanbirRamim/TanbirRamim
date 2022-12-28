@@ -13,7 +13,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Tanbirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanbirRamim&show_icons=true&theme=tokyonight)](https://github.com/TanbirRamim/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanbirramim)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanbirramim&theme=dark)](https://git.io/streak-stats)
 
 
 
