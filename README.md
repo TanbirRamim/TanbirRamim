@@ -1,7 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Tanbir+Hossain+Ramim)](https://git.io/typing-svg)
-#### <h3 > I am a Front-End developer and a competitive programmer  </h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Tanbir+Hossain+Ramim" alt="Typing Animation">
+</p>
+
+
+#### <h3 align="center"> I am a Front-End developer and a competitive programmer  </h3>
+
+A decent freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also a competitive programmer, enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j8c8udqsodtwntl5dk119pwr3&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile) 
 
@@ -10,9 +21,10 @@
 
 
 
-A decent freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also a competitive programmer, enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+
+
 
 [![Tanbirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanbirRamim&show_icons=true&theme=tokyonight)](https://github.com/TanbirRamim/github-readme-stats)
 
