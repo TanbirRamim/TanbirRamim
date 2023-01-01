@@ -10,9 +10,11 @@
 
 #### <h3 align="center"> I am a Front-End developer and a competitive programmer  </h3>
 
-A decent freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also a competitive programmer, enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+#### <p align="center"> A decent freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. </p>
+
+#### <p align="center"> I am also a competitive programmer, enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </p>
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j8c8udqsodtwntl5dk119pwr3&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile) 
 
