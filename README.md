@@ -28,7 +28,7 @@
 
 
 
-[![Tanbirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanbirRamim&show_icons=true&theme=tokyonight)](https://github.com/TanbirRamim/github-readme-stats)
+[![Tanbirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanbirramim&show_icons=true&theme=tokyonight)](https://github.com/TanbirRamim/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tanbirramim&theme=dark)](https://git.io/streak-stats)
 
