@@ -32,7 +32,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tanbirramim&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanbirramim&layout=compact)](https://github.com/tanbirramim/github-readme-stats)
+
 
 
 
