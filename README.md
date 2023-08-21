@@ -49,7 +49,7 @@
 <a href="https://fb.com/tanbir.ramim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanbir.ramim" height="30" width="40" /></a>
 <a href="https://instagram.com/tanbirramim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanbirramim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tanbir ramim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanbir ramim" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tanbirramim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanbirramim" height="30" width="40" /></a>
+</a>
 <a href="https://discord.gg/Tanbir_Ramim#7181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tanbir_Ramim#7181" height="30" width="40" /></a>
 </p>
 
