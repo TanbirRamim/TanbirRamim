@@ -8,7 +8,7 @@
 </p>
 
 
-#### <h3 align="center"> I am a Front-End developer and a competitive programmer  </h3>
+#### <h3 align="center"> I am a Software Engineer and a competitive programmer  </h3>
 
 
 
@@ -16,7 +16,6 @@
 
 #### <p align="center"> I am also a competitive programmer, enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </p>
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j8c8udqsodtwntl5dk119pwr3&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile) 
 
 
 
