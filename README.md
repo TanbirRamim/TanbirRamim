@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>I'm Tanbir Hossain Ramim</h1>
-  <h3>Software Engineer</h3>
+  <h1>Tanbir Hossain Ramim</h1>
+  <h3> Competitive Programmer | Software Engineer</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=tanbirramim&label=Profile%20views&color=0e75b6&style=flat" alt="tanbirramim" />
   </p>
 
-  <p><strong>Reach me:</strong> tanbirramim420@gmail.com</p>
+  <p><strong>Reach me: tanbirramim420@gmail.com </strong> </p>
 
   <h3>Connect with me:</h3>
   <p>
