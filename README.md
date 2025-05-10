@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=tanbirramim&label=Profile%20views&color=0e75b6&style=flat" alt="tanbirramim" />
   </p>
 
-  <p><strong>Reach me: tanbirramim420@gmail.com </strong> </p>
+  <p><strong>Reach me: contact.tanbirramim@gmail.com</strong> </p>
 
   <h3>Connect with me:</h3>
   <p>
