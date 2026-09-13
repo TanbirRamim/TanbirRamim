@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tanbir Hossain Ramim. Software engineer moving into AI engineering. Regensburg, Germany.">
+  <rect width="1200" height="300" rx="18" fill="#0D1822"/>
+  <g fill="none" stroke="#4FD1C1" stroke-width="2.5" opacity="0.22">
+    <circle cx="1060" cy="150" r="210"/><circle cx="1060" cy="150" r="150"/><circle cx="1060" cy="150" r="90"/>
+  </g>
+  <circle cx="1060" cy="150" r="34" fill="none" stroke="#4FD1C1" stroke-width="10"/>
+  <circle cx="1060" cy="150" r="11" fill="#F0A94B"/>
+  <text x="64" y="128" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.5" fill="#DCE7F1">Tanbir Hossain Ramim</text>
+  <text x="66" y="178" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#9DB0C2">Software engineer, moving into AI engineering</text>
+  <line x1="66" y1="208" x2="760" y2="208" stroke="#27394A" stroke-width="2"/>
+  <text x="66" y="246" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="20" fill="#4FD1C1">Python · PyTorch · TypeScript · Next.js · Node.js · Rust</text>
+</svg>
