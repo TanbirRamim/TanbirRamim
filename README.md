@@ -7,6 +7,7 @@ Software engineer in Regensburg, studying Computer Science at **OTH Regensburg**
 
 <p>
   <a href="https://www.tanbirramim.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-tanbirramim.com-0E7C72?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tanbirramim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tanbirramim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contact.tanbirramim@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_me-13263A?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img alt="Open to AI and software engineering roles" src="https://img.shields.io/badge/Open_to-AI_%2F_SWE_roles-C2710C?style=for-the-badge">
 </p>
