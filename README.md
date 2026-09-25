@@ -23,9 +23,3 @@ Software engineer in Regensburg, studying Computer Science at **OTH Regensburg**
 | [**callm**](https://github.com/TanbirRamim/callm) · [PyPI](https://pypi.org/project/callm-toolkit/) | Production toolkit for LLM calls: caching, retries, provider fallback, cost tracking, PII redaction, prompt-injection detection and structured output in one decorator. |
 | [**EnAi**](https://www.tanbirramim.com/projects/enai) · [enai-lab.com](https://www.enai-lab.com/) | Runtime PyTorch training optimizer: hook-driven layer freezing and adaptive batch sizing. 6.91% of training compute removed on ResNet-18, verified by autograd. |
 | [**Open Source Radar**](https://github.com/TanbirRamim/open-source-radar) | Unclaimed, beginner-friendly issues from active projects by language and topic, refreshed every 12 hours, plus a contribution guide. |
-
-### Open source contributions (merged)
-
-- [aws-powertools/powertools-lambda-python#8453](https://github.com/aws-powertools/powertools-lambda-python/pull/8453): match generic alias response models in the OpenAPI schema
-- [OpenAPITools/openapi-generator#24940](https://github.com/OpenAPITools/openapi-generator/pull/24940): fix Kotlin inline enum array parameter default values
-- [JanDeDobbeleer/oh-my-posh#7870](https://github.com/JanDeDobbeleer/oh-my-posh/pull/7870): read custom language tools from YAML configs
